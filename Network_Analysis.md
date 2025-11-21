@@ -1,11 +1,11 @@
 ---
+title: Network Analysis
 created: 2025-11-14 13:46
-modified: 2025-11-21 13:16
+modified: 2025-11-21 14:09
 tags:
   - PER
   - SNA
   - methods
-title: Network_Analysis
 ---
 Traxler [^1] provides an overview of how network analysis can be used in PER. 
 
