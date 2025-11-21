@@ -1,14 +1,12 @@
 ---
 created: 2025-11-14 13:46
-modified: 2025-11-21 13:15
+modified: 2025-11-21 13:16
 tags:
   - PER
   - SNA
   - methods
 title: Network_Analysis
 ---
-\autocite{bolger2025CharacterizingFacultyOnline}
-
 Traxler [^1] provides an overview of how network analysis can be used in PER. 
 
 Bolger studied faculty networks [^2].
